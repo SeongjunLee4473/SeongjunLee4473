@@ -9,7 +9,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeongjunLee4473&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/SeongjunLee4473"
-  width="1200"
+  width="600"
   height="300"
 />
 </a>
