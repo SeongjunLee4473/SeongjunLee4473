@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Seongjun%20Lee&fontAlign=70&fontAlignY=25&desc=Archive&descSize=30&descAlign=89.3&descAlignY=50&color=gradient" width="100%" />
 
 ## 📊 GitHub Status
-[![Seongjun Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongjunLee4473&show_icons=true&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
+[![Seongjun Lee's GitHub stats](https://github-readme-stats-one-pi-56.vercel.app/api?username=SeongjunLee4473&show_icons=true&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
