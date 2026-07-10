@@ -5,7 +5,7 @@
 
 - 🌲 Working on **CAS500-4 Cal/Val** — UAV-based multispectral & LiDAR field campaigns for agricultural/forestry satellite validation
 - 🌊 Research interests: **SAR-based flood mapping**, **AI-driven water quality prediction**, and **Earth observation**
-- 🎓 M.S. from **GIST HydroAI Lab** — AI × Hydrology × Remote Sensing
+- 🎓 M.S. in Earth Sciences and Environmental Engineering from **GIST** ([**HydroAI Lab**](https://hydroai.net/)) — AI × Hydrology × Remote Sensing
 - 📄 Latest publication: [*Enhancing Detection of Inundated Areas using Novel Hybrid PolSAR-Metaheuristic-Deep Learning Models*](https://doi.org/10.1109/JSTARS.2026.3704360) — IEEE JSTARS
 
 ---
