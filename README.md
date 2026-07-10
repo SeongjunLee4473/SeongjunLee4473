@@ -59,11 +59,11 @@
 ---
 
 ## 🖥️ Workspace Specs
-![NVIDIA](https://img.shields.io/badge/NVIDIA-L40-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![NVIDIA](https://img.shields.io/badge/NVIDIA-Geforce_RTX_4090-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-EPYC_9654-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-Ryzen_9_7950X-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![MacMini](https://img.shields.io/badge/Apple-MacMini_M4-999999?style=for-the-badge&logo=apple&logoColor=white) ![MacBook](https://img.shields.io/badge/Apple-MacBook_Air_M2-999999?style=for-the-badge&logo=apple&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-L40-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![NVIDIA](https://img.shields.io/badge/NVIDIA-Geforce_RTX_4090-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-EPYC_9654-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-Ryzen_9_7950X-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![MacMini](https://img.shields.io/badge/Apple-MacMini_M4-999999?style=for-the-badge&logo=apple&logoColor=white) ![MacBook](https://img.shields.io/badge/Apple-MacBook_Pro_M5-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
 ## 📞 Contacts
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seongjun-lee-1489892b2) [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://earthpulsenews.substack.com) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seongjunlee4473@gmail.com) [![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:dltjd08@naver.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seongjun-lee-1489892b2) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seongjunlee4473@gmail.com) [![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:dltjd08@naver.com)
 
 ---
