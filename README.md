@@ -5,6 +5,15 @@
 
 ---
 
+## 🐍 Contribution Snake
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeongjunLee4473/SeongjunLee4473/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SeongjunLee4473/SeongjunLee4473/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/SeongjunLee4473/SeongjunLee4473/output/github-snake.svg" />
+  </picture>
+
+---
+
 ## 🍀 GitHub Farm
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SeongjunLee4473&utm_content=farm">
 <img
