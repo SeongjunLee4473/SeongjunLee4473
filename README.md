@@ -11,7 +11,7 @@
 ---
 
 ## 📊 GitHub Status
-[![Seongjun Lee's GitHub stats](https://github-stats-extended-frontend-gold.vercel.app/api?username=SeongjunLee4473&show_icons=true&theme=shadow_green)](https://github.com/stats-organization/github-stats-extended)
+[![Seongjun Lee's GitHub stats](https://raw.githubusercontent.com/SeongjunLee4473/SeongjunLee4473/output/github-stats.svg)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
