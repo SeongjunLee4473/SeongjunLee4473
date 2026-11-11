@@ -9,6 +9,14 @@
 
 ---
 
+## 📌 Featured Projects
+| Project | Description |
+|:--|:--|
+| [**remote-sensing-toolkit**](https://github.com/SeongjunLee4473/remote-sensing-toolkit) | Python utilities for satellite and geospatial data: raster and vector GIS helpers, NASA HLS L30/S30 and MODIS vegetation index readers, and tutorial notebooks from raw downloads to analysis-ready data.<br>![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![GDAL](https://img.shields.io/badge/GDAL-rasterio-5CAE58?logo=gdal&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-yellow) |
+| [**dji-m3m-elm-calibration**](https://github.com/SeongjunLee4473/dji-m3m-elm-calibration) | Empirical Line Method calibration for DJI Mavic 3 Multispectral: converts DN orthomosaics to surface reflectance with four reference tarps and validates the result per band.<br>![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![DJI](https://img.shields.io/badge/DJI-Mavic%203M-000000?logo=dji&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-yellow) |
+
+---
+
 ## 📝 Publications
 **Journal articles (first author)**
 
