@@ -19,15 +19,23 @@ jobs:
         with:
           github_user_name: SeongjunLee4473
           outputs: |
-            dist/github-snake.svg?color_snake=#7A30FF&color_dots=#ebedf0,#bfd6f6,#8dbdff,#64a1f4,#3173d9
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#a78bfa&color_dots=#161b22,#0e4429,#1f6feb,#388bfd,#79c0ff
+            dist/github-snake.svg?color_snake=#2d6a4f&color_dots=#ebedf0,#b7e4c7,#74c69d,#40916c,#1b4332
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#95d5b2&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
-      - name: generate GitHub stats card
+      - name: generate GitHub stats card (light)
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=SeongjunLee4473&show_icons=true&theme=shadow_green
+          options: username=SeongjunLee4473&show_icons=true&title_color=2d6a4f&icon_color=40916c&text_color=1f2328&bg_color=ffffff&border_color=d0d7de
           path: dist/github-stats.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: generate GitHub stats card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=SeongjunLee4473&show_icons=true&title_color=74c69d&icon_color=52b788&text_color=c9d1d9&bg_color=0d1117&border_color=30363d
+          path: dist/github-stats-dark.svg
           token: ${{ secrets.GH_TOKEN }}
 
       - name: push to output branch

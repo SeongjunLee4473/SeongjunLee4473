@@ -1,26 +1,67 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Seongjun%20Lee&fontAlign=70&fontAlignY=25&desc=Remote%20Sensing%20Researcher&descSize=25&descAlign=76&descAlignY=51&color=gradient" width="100%" />
+<img src="assets/header.svg" alt="Seongjun Lee, Remote Sensing Researcher" width="100%" />
 
 ## 🛰️ About Me
 **Remote sensing researcher** at the **National Institute of Forest Science (NIFoS)**, South Korea 🇰🇷
 
-- 🌲 Working on **CAS500-4 Cal/Val** — UAV-based multispectral & LiDAR field campaigns for agricultural/forestry satellite validation
-- 🌊 Research interests: **SAR-based flood mapping**, **AI-driven water quality prediction**, and **Earth observation**
-- 🎓 M.S. in Earth Sciences and Environmental Engineering from **GIST** ([**HydroAI Lab**](https://hydroai.net/)) — AI × Hydrology × Remote Sensing
-- 📄 Latest publication: [*Enhancing Detection of Inundated Areas using Novel Hybrid PolSAR-Metaheuristic-Deep Learning Models*](https://doi.org/10.1109/JSTARS.2026.3704360) — IEEE JSTARS
+- 🌲 Working on **CAS500-4 Cal/Val**, running UAV multispectral and LiDAR field campaigns to validate agricultural and forestry satellite products
+- 🌊 Research interests: **SAR-based flood mapping**, **deep learning for water quality prediction**, and **Earth observation**
+- 🎓 M.S. in Earth Sciences and Environmental Engineering from **GIST** ([**HydroAI Lab**](https://hydroai.net/)), working on AI for hydrology and remote sensing
 
 ---
 
-## 📊 GitHub Status
-[![Seongjun Lee's GitHub stats](https://raw.githubusercontent.com/SeongjunLee4473/SeongjunLee4473/output/github-stats.svg)](https://github.com/stats-organization/github-stats-extended)
+## 📝 Publications
+**Journal articles (first author)**
+
+1. **S. Lee** et al., "Enhancing Detection of Inundated Areas Using Novel Hybrid PolSAR-Metaheuristic-Deep Learning Models," *IEEE JSTARS*, 2026. [[DOI]](https://doi.org/10.1109/JSTARS.2026.3704360)
+2. **S. Lee** et al., "Cross-Domain Flood Mapping with PolSAR-Informed Deep Learning in Data-Denied Regions: Evidence from Contrasting Hydroclimatic Regimes," *IEEE JSTARS*. *(under review)*
+3. **S. Lee** et al., "A satellite-reanalysis deep-learning nationwide 1 km gridded inland water quality dataset for South Korea (2016-2024)," *Scientific Data*. *(under review)*
+
+<details>
+<summary><b>Selected conference presentations</b></summary>
+
+- **S. Lee** and H. Kim, "Development of Chlorophyll-a Prediction Model for Inland Reservoirs Using Satellite and Land Surface Model: Applying Deep Learning Approach," *AGU 2024*, Washington, D.C., 2024. (Poster)
+- **S. Lee** and H. Kim, "Advancing Deep Learning-Based Prediction of Water Quality for Inland Water," *Korea International Water Week 2024*, Daegu, 2024. (Oral)
+- **S. Lee** and H. Kim, "Estimation of Inland Water Quality Indicators Using Satellite and Machine Learning," *COSPAR 2024*, Busan, 2024. (Poster)
+
+</details>
 
 ---
 
-## 🐍 Contribution Snake
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeongjunLee4473/SeongjunLee4473/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SeongjunLee4473/SeongjunLee4473/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/SeongjunLee4473/SeongjunLee4473/output/github-snake.svg" />
-  </picture>
+## 🚀 Skills
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+### Data & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+### Remote Sensing & GIS
+![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white) ![ENVI](https://img.shields.io/badge/ENVI_(SARscape)-1F4E79?style=for-the-badge) ![SNAP](https://img.shields.io/badge/ESA_SNAP-0B3D91?style=for-the-badge) ![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge&logo=gdal&logoColor=white) ![Rasterio](https://img.shields.io/badge/Rasterio-2E86AB?style=for-the-badge)
+
+### Field & UAV
+![DJI Matrice 3M](https://img.shields.io/badge/DJI-Matrice_3M-000000?style=for-the-badge&logo=dji&logoColor=white) ![DJI M350 RTK](https://img.shields.io/badge/DJI-M350_RTK-000000?style=for-the-badge&logo=dji&logoColor=white) ![DJI Zenmuse L2](https://img.shields.io/badge/DJI-Zenmuse_L2_LiDAR-000000?style=for-the-badge&logo=dji&logoColor=white) ![MicaSense RedEdge-MX](https://img.shields.io/badge/MicaSense-RedEdge--MX-2D6A4F?style=for-the-badge) ![DJI Terra](https://img.shields.io/badge/DJI-Terra-000000?style=for-the-badge&logo=dji&logoColor=white) ![UAV Pilot](https://img.shields.io/badge/UAV_Pilot-Class_1-40916C?style=for-the-badge)
+
+### Tools & Environment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![WSL](https://img.shields.io/badge/WSL-0A97F5?style=for-the-badge&logo=linux&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+---
+
+## 🖥️ Compute
+![NVIDIA](https://img.shields.io/badge/NVIDIA-L40-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![NVIDIA](https://img.shields.io/badge/NVIDIA-Geforce_RTX_4090-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-EPYC_9654-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-Ryzen_9_7950X-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![MacMini](https://img.shields.io/badge/Apple-Mac_mini_M4-999999?style=for-the-badge&logo=apple&logoColor=white) ![MacBook](https://img.shields.io/badge/Apple-MacBook_Pro_M5-999999?style=for-the-badge&logo=apple&logoColor=white)
+
+---
+
+## 📊 GitHub Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeongjunLee4473/SeongjunLee4473/output/github-stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SeongjunLee4473/SeongjunLee4473/output/github-stats.svg" />
+  <img alt="Seongjun Lee's GitHub stats" src="https://raw.githubusercontent.com/SeongjunLee4473/SeongjunLee4473/output/github-stats.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeongjunLee4473/SeongjunLee4473/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SeongjunLee4473/SeongjunLee4473/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SeongjunLee4473/SeongjunLee4473/output/github-snake.svg" />
+</picture>
 
 ---
 
@@ -35,35 +76,5 @@
 
 ---
 
-## 🚀 Skills
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-### AI Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### Remote Sensing & GIS
-![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) ![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge&logo=gdal&logoColor=white) ![SNAP](https://img.shields.io/badge/ESA_SNAP-0B3D91?style=for-the-badge&logo=esa&logoColor=white) ![Rasterio](https://img.shields.io/badge/Rasterio-2E86AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools & Environment
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white) ![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-### Office
-![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
----
-
-## 💻 OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white) ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-
----
-
-## 🖥️ Workspace Specs
-![NVIDIA](https://img.shields.io/badge/NVIDIA-L40-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![NVIDIA](https://img.shields.io/badge/NVIDIA-Geforce_RTX_4090-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-EPYC_9654-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-Ryzen_9_7950X-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![MacMini](https://img.shields.io/badge/Apple-MacMini_M4-999999?style=for-the-badge&logo=apple&logoColor=white) ![MacBook](https://img.shields.io/badge/Apple-MacBook_Pro_M5-999999?style=for-the-badge&logo=apple&logoColor=white)
-
----
-
 ## 📞 Contacts
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seongjun-lee-1489892b2) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seongjunlee4473@gmail.com) [![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:dltjd08@naver.com)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/seongjun-lee-1489892b2) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seongjunlee4473@gmail.com) [![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:dltjd08@naver.com)

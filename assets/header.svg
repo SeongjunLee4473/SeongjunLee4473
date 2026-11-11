@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="230" viewBox="0 0 854 230" role="img" aria-labelledby="t d">
+  <title id="t">Seongjun Lee</title>
+  <desc id="d">Remote Sensing Researcher. Satellite Cal/Val, SAR and AI.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0.35">
+      <stop offset="0" stop-color="#1b4332"/>
+      <stop offset="0.55" stop-color="#2d6a4f"/>
+      <stop offset="1" stop-color="#40916c"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 0H854V192C742 226 650 166 520 190C400 212 300 230 190 200C110 180 50 192 0 210Z" fill="#52b788" fill-opacity="0.35"/>
+  <path d="M0 0H854V170C760 205 660 140 540 168C420 196 330 214 210 180C130 158 60 170 0 190Z" fill="url(#g)"/>
+  <ellipse cx="427" cy="92" rx="340" ry="70" transform="rotate(-4 427 92)" fill="none" stroke="#ffffff" stroke-opacity="0.16" stroke-width="1.2"/>
+  <circle cx="683" cy="29" r="4" fill="#ffffff" fill-opacity="0.85"/>
+  <circle cx="683" cy="29" r="9" fill="none" stroke="#ffffff" stroke-opacity="0.3"/>
+  <g font-family="'Segoe UI', Ubuntu, -apple-system, 'Helvetica Neue', Arial, sans-serif" text-anchor="middle" fill="#ffffff">
+    <text x="427" y="96" font-size="54" font-weight="700" letter-spacing="0.5">Seongjun Lee</text>
+    <text x="427" y="132" font-size="19" fill-opacity="0.88">Remote Sensing Researcher · Satellite Cal/Val · SAR &amp; AI</text>
+  </g>
+  <g transform="translate(366 148)">
+    <rect x="0" width="20" height="4" rx="2" fill="#7fb3ff"/>
+    <rect x="25" width="20" height="4" rx="2" fill="#95d5b2"/>
+    <rect x="50" width="20" height="4" rx="2" fill="#ff8a7a"/>
+    <rect x="75" width="20" height="4" rx="2" fill="#e7a3c4"/>
+    <rect x="100" width="20" height="4" rx="2" fill="#d8c3ff"/>
+  </g>
+</svg>
